@@ -24,9 +24,9 @@
 
 ## Certifications
  
-GitLab Certified Associate <a href="https://badgr.com/public/assertions/7NfPvBzSRmav3tzHNDxOUw?identity__email=diegoandresantana@gmail.com"><img src="https://api.badgr.io/public/assertions/7NfPvBzSRmav3tzHNDxOUw/image" align="left" height="48" width="48" ></a>
+GitLab Certified Associate <a href="https://badgr.com/public/assertions/7NfPvBzSRmav3tzHNDxOUw?identity__email=diegoandresantana@gmail.com"><img src="https://api.badgr.io/public/assertions/7NfPvBzSRmav3tzHNDxOUw/image" align="left" height="48" width="48" /></a>
 
-Oracle Certified Associate, Java SE 7 Programmer <a href="https://www.credly.com/badges/463a0e70-7b5f-4c70-8359-db97a7477627?source=linked_in_profile"><img src="https://images.credly.com/size/340x340/images/9956323d-90eb-4a7a-9fc6-4750ce433d3a/Oracle-Certification-badge_OC-Associate600X600.png" align="left" height="48" width="48" ></a>
+Oracle Certified Associate, Java SE 7 Programmer <a href="https://www.credly.com/badges/463a0e70-7b5f-4c70-8359-db97a7477627?source=linked_in_profile"><img src="https://images.credly.com/size/340x340/images/9956323d-90eb-4a7a-9fc6-4750ce433d3a/Oracle-Certification-badge_OC-Associate600X600.png" align="left" height="48" width="48" /></a>
  
  
 
