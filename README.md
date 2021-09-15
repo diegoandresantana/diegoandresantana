@@ -23,8 +23,8 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitee&link=https://www.instagram.com/diegoandresantana/)](https://www.instagram.com/diegoandresantana/)
 
 ## Certifications
-[![GitLab Certified Associate](https://api.badgr.io/public/assertions/7NfPvBzSRmav3tzHNDxOUw/image?style=for-the-badge&logo=instagram&logoColor=whitee&link=https://www.instagram.com/diegoandresantana/)](https://www.instagram.com/diegoandresantana/)
-
+GitLab Certified Associate - <code><img height="20" src="https://api.badgr.io/public/assertions/7NfPvBzSRmav3tzHNDxOUw/image?style=for-the-badge&logo=java&logoColor=white"></code>
+ 
 
 ## Skills
 
