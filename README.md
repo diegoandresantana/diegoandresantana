@@ -4,7 +4,7 @@
 ## I'm Diego Sant'Ana!
  
 
-:computer: I'm Professor/Devoleper !
+:computer: I'm Professor/Web Developer !
 
 :house_with_garden: I’m from Brazil.
 
