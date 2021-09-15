@@ -23,12 +23,11 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitee&link=https://www.instagram.com/diegoandresantana/)](https://www.instagram.com/diegoandresantana/)
 
 ## Certifications
-<div height="40">
-[![GitLab Certified Associate](https://api.badgr.io/public/assertions/7NfPvBzSRmav3tzHNDxOUw/image?style=for-the-badge&logo=java&logoColor=white)](https://badgr.com/public/assertions/7NfPvBzSRmav3tzHNDxOUw?identity__email=diegoandresantana@gmail.com) 
+ 
+[![GitLab Certified Associate](https://api.badgr.io/public/assertions/7NfPvBzSRmav3tzHNDxOUw/image?style=for-the-badge&logo=java&logoColor=white  = 250x)](https://badgr.com/public/assertions/7NfPvBzSRmav3tzHNDxOUw?identity__email=diegoandresantana@gmail.com) 
 
-[![Oracle Certified Associate, Java SE 7 Programmer](https://images.credly.com/size/340x340/images/9956323d-90eb-4a7a-9fc6-4750ce433d3a/Oracle-Certification-badge_OC-Associate600X600.png?style=for-the-badge&logo=java&logoColor=white)](https://www.credly.com/badges/463a0e70-7b5f-4c70-8359-db97a7477627?source=linked_in_profile) 
-
-</div>
+[![Oracle Certified Associate, Java SE 7 Programmer](https://images.credly.com/size/340x340/images/9956323d-90eb-4a7a-9fc6-4750ce433d3a/Oracle-Certification-badge_OC-Associate600X600.png?style=for-the-badge&logo=java&logoColor=white  = 250x)](https://www.credly.com/badges/463a0e70-7b5f-4c70-8359-db97a7477627?source=linked_in_profile) 
+ 
 
 ## Skills
 
