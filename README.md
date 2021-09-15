@@ -67,4 +67,11 @@
 [![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoandresantana)](https://github.com/diegoandresantana/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=diegoandresantana&layout=compact)](https://github.com/diegoandresantana/github-readme-stats)
 
+## Papers
 
+Journal
+
+Martins, J.A.C.; Nogueira, K.; Osco, L.P.; Gomes, F.D.G.; Furuya, D.E.G.; Gonçalves, W.N.; Sant’Ana, D.A.; Ramos, A.P.M.; Liesenberg, V.; dos Santos, J.A.; de Oliveira, P.T.S.; Junior, J.M. Semantic Segmentation of Tree-Canopy in Urban Environment with Pixel-Wise Deep Learning. Remote Sens. 2021, 13, 3054. (https://doi.org/10.3390/rs13163054)
+Conference
+
+Martins, J., Sant’Ana, D. A., Marcato Junior, J., Pistori, H., and Gonçalves, W. N.: AERIAL IMAGE SEGMENTATION IN URBAN ENVIRONMENT FOR VEGETATION MONITORING, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLII-3/W12-2020, 349–353, (https://doi.org/10.5194/isprs-archives-XLII-3-W12-2020-349-2020), 2020.
