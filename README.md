@@ -78,6 +78,7 @@
 ## Papers
 
 # Journal
+Correa Martins, J. A.; Menezes, G.; Gonçalves, W.; Sant’Ana, D. A.; Prado Osco, L.; Liesenberg, V.; Li, J.; Ma, L.; Tarso Oliveira, P.; Astolfi, G.; Pistori, H.; Marcato Junior, J.. Machine learning and SLIC for Tree-Canopies segmentation in urban areas. Ecological Informatics, Volume ???, 2021,101465, ISSN 1574-9541, DOI:(https://doi.org/10.1016/j.ecoinf.2021.101465).
 
 Sant’Ana, D. A.; Carneiro Brito Pache, M.; Martins, J.; Pereira Soares,W.; Neves de Melo,S. L.;  Garcia,V.; Aparecida de Moares Weber,V. ;da Silva Heimbach,N.; Gonçalves Mateus,R; Pistori,H. Weighing live sheep using computer vision techniques and regression machine learning,
 Machine Learning with Applications, Volume 5, 2021, 100076, ISSN 2666-8270, DOI:(https://doi.org/10.1016/j.mlwa.2021.100076).
