@@ -79,7 +79,7 @@
 
 # Journal
 
-da Silva Oliveira Junior, A.; Sant'Ana, D. A.; Carneiro Brito Pache, M.; Garcia, V.; Aparecida de Moraes Weber, V.; Astolfi, G; de Lima Weber, F.; Vilharva Menezes, G.; Kisten Menezes, G; França Albuquerque, P. L.; Soares Costa, C;  Quirino Arguelho de Queiroz, E.; Araújo Rozales,J. V.;Wolff Ferreira, M.; Hiroshi Naka, M; Pistori, H. Fingerlings mass estimation: a comparison between deep and shallow learning algorithms. Smart Agricultural Technology, Volume ???, 2021,XXXX, ISSN 2772-3755, DOI:(https://doi.org/10.1016/j.atech.2021.100020).[PRELO]
+da Silva Oliveira Junior, A.; Sant'Ana, D. A.; Carneiro Brito Pache, M.; Garcia, V.; Aparecida de Moraes Weber, V.; Astolfi, G; de Lima Weber, F.; Vilharva Menezes, G.; Kisten Menezes, G; França Albuquerque, P. L.; Soares Costa, C;  Quirino Arguelho de Queiroz, E.; Araújo Rozales,J. V.;Wolff Ferreira, M.; Hiroshi Naka, M; Pistori, H. Fingerlings mass estimation: a comparison between deep and shallow learning algorithms. Smart Agricultural Technology, Volume 1, 2021,100020, ISSN 2772-3755, DOI:(https://doi.org/10.1016/j.atech.2021.100020).[PRELO]
 
 Correa Martins, J. A.; Menezes, G.; Gonçalves, W.; Sant’Ana, D. A.; Prado Osco, L.; Liesenberg, V.; Li, J.; Ma, L.; Tarso Oliveira, P.; Astolfi, G.; Pistori, H.; Marcato Junior, J.. Machine learning and SLIC for Tree-Canopies segmentation in urban areas. Ecological Informatics, Volume ???, 2021,101465, ISSN 1574-9541, DOI:(https://doi.org/10.1016/j.ecoinf.2021.101465).
 
