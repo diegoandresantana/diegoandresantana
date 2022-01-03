@@ -79,7 +79,9 @@
 
 # Journal
 
-Carneiro Brito Pache, M.; Sant'Ana, D. A.; Prestes Cesar Rezende, F.;  de Andrade Porto, J. V.; Araújo Rozales, J. V.; Aparecida de Moraes Weber, V.; da Silva Oliveira Junior, A.; Garcia, V.;  Hiroshi Naka, M.; Pistori, H. . Non-intrusively estimating the live body biomass of Pintado Real® fingerlings: a feature selection approach. Ecological Informatics,  Volume 1, 2021,100020, ISSN 2772-3755, DOI:(https://doi.org/10.1016/j.ecoinf.2021.101509).
+Sant’Ana, D. A.; Carneiro Brito Pache, M.; Martins, J.; Astolfi, G.; Pereira Soares,W.; Neves de Melo,S. L.; da Silva Heimbach,N.;  Aparecida de Moares Weber,V. ; Gonçalves Mateus,R; Pistori,H. . Computer vision system for superpixel classification and segmentation of sheep. Ecological Informatics,  Volume ????, 2022,????, ISSN 2772-3755, DOI:().
+
+Carneiro Brito Pache, M.; Sant'Ana, D. A.; Prestes Cesar Rezende, F.;  de Andrade Porto, J. V.; Araújo Rozales, J. V.; Aparecida de Moraes Weber, V.; da Silva Oliveira Junior, A.; Garcia, V.;  Hiroshi Naka, M.; Pistori, H. . Non-intrusively estimating the live body biomass of Pintado Real® fingerlings: a feature selection approach. Ecological Informatics,  Volume 68, 2022,101509, ISSN 2772-3755, DOI:(https://doi.org/10.1016/j.ecoinf.2021.101509).
 
 da Silva Oliveira Junior, A.; Sant'Ana, D. A.; Carneiro Brito Pache, M.; Garcia, V.; Aparecida de Moraes Weber, V.; Astolfi, G; de Lima Weber, F.; Vilharva Menezes, G.; Kisten Menezes, G; França Albuquerque, P. L.; Soares Costa, C;  Quirino Arguelho de Queiroz, E.; Araújo Rozales,J. V.;Wolff Ferreira, M.; Hiroshi Naka, M; Pistori, H. Fingerlings mass estimation: a comparison between deep and shallow learning algorithms. Smart Agricultural Technology, Volume 1, 2021,100020, ISSN 2772-3755, DOI:(https://doi.org/10.1016/j.atech.2021.100020).
 
