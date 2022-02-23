@@ -101,6 +101,10 @@ Soares Costa,C.; Castelão Tetila, E.; Astolfi, G.; Sant’Ana, D. A.; Carneiro 
 
 # Conference
 
+da Silva Oliveira Junior, Adair; Carneiro Brito Pache, Marcio; Prestes Cesar Rezende, Fábio; Sant’Ana, Diego André ; de Moraes Weber, Vanessa Aparecida ; Astolfi, Gilberto; de Lima Weber, Fabricio; Vilharva Menezes, Geazy; Menezes, Gabriel Kirsten; França, Marco; Pistori
+Hemerson., An Investigation of Parameter Optimization in Fingerling Counting Problems. In: WORKSHOP DE VISÃO COMPUTACIONAL (WVC), 17. , 2021, Evento Online. Anais. Porto Alegre: Sociedade Brasileira de Computação, 2021 . p. 7-12. DOI: ( https://sol.sbc.org.br/index.php/wvc/article/view/18881/18711).
+
+
 Martins,J. ; Sant’Ana, D. A. ; Junior, J. M. ; Pistori, H. ; Gonçalves, W. N. , Aerial Image Segmentation In Urban Environment For Vegetation Monitoring," 2020 IEEE Latin American GRSS & ISPRS Remote Sensing Conference (LAGIRS), 2020, pp. 375-379, doi: (https://doi.org/10.1109/LAGIRS48042.2020.9165618).
 
 Martins, J., Sant’Ana, D. A., Marcato Junior, J., Pistori, H., and Gonçalves, W. N.: AERIAL IMAGE SEGMENTATION IN URBAN ENVIRONMENT FOR VEGETATION MONITORING, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLII-3/W12-2020, 349–353, 2020 , (https://doi.org/10.5194/isprs-archives-XLII-3-W12-2020-349-2020)
