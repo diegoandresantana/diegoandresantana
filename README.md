@@ -79,7 +79,7 @@
 ## Papers
 
 # Journal
-Carneiro Brito Pache, M.; Le Bourlegat, C. A.; Espindola Diasm J. L.;  Sant’Ana, D. A.;  Pistori,H.; Naka, M. . Aquaculture and Innovation based on Interactive Learning Processes: Pacu Project in Terenos / MS. Interações (Campo Grande),  Volume ??, 2022, ?? , ISSN 1984-042X, DOI:(??????). PRELO
+Carneiro Brito Pache, M.; Le Bourlegat, C. A.; Espindola Diasm J. L.;  Sant’Ana, D. A.;  Pistori,H.; Naka, M. . Aquaculture and Innovation based on Interactive Learning Processes: Pacu Project in Terenos / MS. Interações (Campo Grande),  Volume 23, 2022, 2 , ISSN 1984-042X, DOI:(https://doi.org/10.20435/inter.v23i2.3522). PRELO
 
 Sant’Ana, D. A.; Carneiro Brito Pache, M.; Martins, J.; Astolfi, G.; Pereira Soares,W.; Neves de Melo,S. L.; da Silva Heimbach,N.;  Aparecida de Moares Weber,V. ; Gonçalves Mateus,R; Pistori,H. . Computer vision system for superpixel classification and segmentation of sheep. Ecological Informatics,  Volume 68, 2022, 101551 , ISSN 2772-3755, DOI:(https://doi.org/10.1016/j.ecoinf.2021.101551).
 
