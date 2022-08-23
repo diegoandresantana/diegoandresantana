@@ -79,6 +79,10 @@
 ## Papers
 
 # Journal
+
+
+Carneiro Brito Pache, M.; Sant'Ana, Diego André ; ROZALES, J. V. A. ; WEBER, V. A. M. ; OLIVEIRA JUNIOR, A. S. ; GARCIA, V. ; PISTORI, H. ; NAKA, M. H. . Prediction of fingerling biomass with Deep Learning. Ecological Informatics,  Volume XXXX, 2022, XXXX , ISSN 2772-3755, DOI:( ).
+
 Correa Martins, José Augusto; Marcato Junior,José ; Pätzig,Marlene; Sant'Ana,Diego André ; Pistori,Hemerson ;Liesenberg,Veraldo ; Eltner,Anette. Identifying plant species in kettle holes using UAV images and deep learning techniques. Remote Sensing in Ecology and Conservation,  Volume XXXX, 2022, XXXX , ISSN 2056-3485, DOI:(https://doi.org/10.1002/rse2.291).
 
 Carneiro Brito Pache, M.; Le Bourlegat, C. A.; Espindola Diasm J. L.;  Sant’Ana, D. A.;  Pistori,H.; Naka, M. . Aquaculture and Innovation based on Interactive Learning Processes: Pacu Project in Terenos / MS. Interações (Campo Grande),  Volume 23, 2022, 2 , ISSN 1984-042X, DOI:(https://doi.org/10.20435/inter.v23i2.3522). 
