@@ -81,7 +81,7 @@
 # Journal
 
 
-Carneiro Brito Pache, M.; Sant'Ana, Diego André ; ROZALES, J. V. A. ; WEBER, V. A. M. ; OLIVEIRA JUNIOR, A. S. ; GARCIA, V. ; PISTORI, H. ; NAKA, M. H. . Prediction of fingerling biomass with Deep Learning. Ecological Informatics,  Volume XXXX, 2022, XXXX , ISSN 2772-3755, DOI:( ).
+Carneiro Brito Pache, M.; Sant'Ana, Diego André ; ROZALES, J. V. A. ; WEBER, V. A. M. ; OLIVEIRA JUNIOR, A. S. ; GARCIA, V. ; PISTORI, H. ; NAKA, M. H. . Prediction of fingerling biomass with Deep Learning. Ecological Informatics,  Volume XXXX, 2022, XXXX , ISSN 2772-3755, DOI:(https://doi.org/10.1016/j.ecoinf.2022.101785).
 
 Correa Martins, José Augusto; Marcato Junior,José ; Pätzig,Marlene; Sant'Ana,Diego André ; Pistori,Hemerson ;Liesenberg,Veraldo ; Eltner,Anette. Identifying plant species in kettle holes using UAV images and deep learning techniques. Remote Sensing in Ecology and Conservation,  Volume XXXX, 2022, XXXX , ISSN 2056-3485, DOI:(https://doi.org/10.1002/rse2.291).
 
