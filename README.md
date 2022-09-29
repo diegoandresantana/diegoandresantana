@@ -79,7 +79,7 @@
 ## Papers
 
 # Journal
-
+ Astolfi, G.;  Sant'Ana, Diego André ; de Andrade Porto, J. V.; Prestes Cesar Rezende, F.; Castelão Tetila, E.;Takashi Matsubara, E.;PISTORI, H.  . An approach for applying natural language processing to image classification problems. Neurocomputing,  Volume XXXX, 2022, XXXX , ISSN 0925-2312, DOI:(https://doi.org/10.1016/j.neucom.2022.09.131).
 
 Carneiro Brito Pache, M.; Sant'Ana, Diego André ; ROZALES, J. V. A. ; WEBER, V. A. M. ; OLIVEIRA JUNIOR, A. S. ; GARCIA, V. ; PISTORI, H. ; NAKA, M. H. . Prediction of fingerling biomass with Deep Learning. Ecological Informatics,  Volume XXXX, 2022, XXXX , ISSN 2772-3755, DOI:(https://doi.org/10.1016/j.ecoinf.2022.101785).
 
