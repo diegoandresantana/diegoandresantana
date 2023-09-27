@@ -79,11 +79,14 @@
 ## Papers
 
 # Journal
- Astolfi, G.;  Sant'Ana, Diego André ; de Andrade Porto, J. V.; Prestes Cesar Rezende, F.; Castelão Tetila, E.;Takashi Matsubara, E.;PISTORI, H.  . An approach for applying natural language processing to image classification problems. Neurocomputing,  Volume XXXX, 2022, XXXX , ISSN 0925-2312, DOI:(https://doi.org/10.1016/j.neucom.2022.09.131).
 
-Carneiro Brito Pache, M.; Sant'Ana, Diego André ; ROZALES, J. V. A. ; WEBER, V. A. M. ; OLIVEIRA JUNIOR, A. S. ; GARCIA, V. ; PISTORI, H. ; NAKA, M. H. . Prediction of fingerling biomass with Deep Learning. Ecological Informatics,  Volume XXXX, 2022, XXXX , ISSN 2772-3755, DOI:(https://doi.org/10.1016/j.ecoinf.2022.101785).
+Tetila, E. C., Bressem, K. K., Astolfi, G., Sant’Ana, D. A., Pache, M. C. B., Wirti Junior, G., Barbedo, J. G. A., & Pistori, H. (2023). System for quantitative diagnosis of COVID-19 associated Pneumonia based on Superpixels with deep learning and chest CT. OBSERVATÓRIO DE LA ECONOMÍA LATINOAMERICANA, 21(9), 10883–10905. DOI:(https://doi.org/10.55905/oelv21n9-022)
 
-Correa Martins, José Augusto; Marcato Junior,José ; Pätzig,Marlene; Sant'Ana,Diego André ; Pistori,Hemerson ;Liesenberg,Veraldo ; Eltner,Anette. Identifying plant species in kettle holes using UAV images and deep learning techniques. Remote Sensing in Ecology and Conservation,  Volume XXXX, 2022, XXXX , ISSN 2056-3485, DOI:(https://doi.org/10.1002/rse2.291).
+Astolfi, G.;  Sant'Ana, Diego André ; de Andrade Porto, J. V.; Prestes Cesar Rezende, F.; Castelão Tetila, E.;Takashi Matsubara, E.;PISTORI, H.  . An approach for applying natural language processing to image classification problems. Neurocomputing,  Volume 513, 2022, 372-382 , ISSN 0925-2312, DOI:(https://doi.org/10.1016/j.neucom.2022.09.131).
+
+Carneiro Brito Pache, M.; Sant'Ana, Diego André ; ROZALES, J. V. A. ; WEBER, V. A. M. ; OLIVEIRA JUNIOR, A. S. ; GARCIA, V. ; PISTORI, H. ; NAKA, M. H. . Prediction of fingerling biomass with Deep Learning. Ecological Informatics,  Volume 71, 2022, 101785 , ISSN 2772-3755, DOI:(https://doi.org/10.1016/j.ecoinf.2022.101785).
+
+Correa Martins, José Augusto; Marcato Junior,José ; Pätzig,Marlene; Sant'Ana,Diego André ; Pistori,Hemerson ;Liesenberg,Veraldo ; Eltner,Anette. Identifying plant species in kettle holes using UAV images and deep learning techniques. Remote Sensing in Ecology and Conservation,  Volume 9, 2022, 1-16, ISSN 2056-3485, DOI:(https://doi.org/10.1002/rse2.291).
 
 Carneiro Brito Pache, M.; Le Bourlegat, C. A.; Espindola Diasm J. L.;  Sant’Ana, D. A.;  Pistori,H.; Naka, M. . Aquaculture and Innovation based on Interactive Learning Processes: Pacu Project in Terenos / MS. Interações (Campo Grande),  Volume 23, 2022, 2 , ISSN 1984-042X, DOI:(https://doi.org/10.20435/inter.v23i2.3522). 
 
