@@ -111,9 +111,12 @@ Soares Costa,C.; Castelão Tetila, E.; Astolfi, G.; Sant’Ana, D. A.; Carneiro 
 
 # Conference
 
+GARCIA, V. ; SANT'ANA, DIEGO ANDRE ; ZANONI, V. A. G. ; PACHE, M. C. B. ; NAKA, M. H. ; ALBUQUERQUE, P. L. F. ; LEWANDOWSKI, T. ; OLIVEIRA JUNIOR, A. S. ; ROZALES, J. V. A. ; FERREIRA, M. W. ; QUEIROZ, E. Q. A. ; ALMANZA, J. C. M. ; PISTORI, H. . The influence of lighting on fingerlings counting. In: XVIII Workshop on Computational Vision, 2023, São Bernardo do Campo. 2023: Proceedings of the XVIII Computational Vision Workshop, 2023.
+
+OLIVEIRA JUNIOR, A. S. ; SILVA, A. K. V. ; PACHE, M. C. B. ; SANT'ANA, DIEGO ANDRE ; CARNEIRO, A. M. ; WEBER, F. L. ; WEBER, V. A. M. ; PISTORI, H. . Supervised computer vision system for weight group classification of fingerlings. In: XVIII Workshop on Computational Vision, 2023, São Bernardo do Campo. 2023: Proceedings of the XVIII Computational Vision Workshop, 2023.
+
 da Silva Oliveira Junior, Adair; Carneiro Brito Pache, Marcio; Prestes Cesar Rezende, Fábio; Sant’Ana, Diego André ; de Moraes Weber, Vanessa Aparecida ; Astolfi, Gilberto; de Lima Weber, Fabricio; Vilharva Menezes, Geazy; Menezes, Gabriel Kirsten; França, Marco; Pistori
 Hemerson., An Investigation of Parameter Optimization in Fingerling Counting Problems. In: WORKSHOP DE VISÃO COMPUTACIONAL (WVC), 17. , 2021, Evento Online. Anais. Porto Alegre: Sociedade Brasileira de Computação, 2021 . p. 7-12. DOI: ( https://sol.sbc.org.br/index.php/wvc/article/view/18881/18711).
-
 
 Martins,J. ; Sant’Ana, D. A. ; Junior, J. M. ; Pistori, H. ; Gonçalves, W. N. , Aerial Image Segmentation In Urban Environment For Vegetation Monitoring," 2020 IEEE Latin American GRSS & ISPRS Remote Sensing Conference (LAGIRS), 2020, pp. 375-379, doi: (https://doi.org/10.1109/LAGIRS48042.2020.9165618).
 
