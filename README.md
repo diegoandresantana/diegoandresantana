@@ -28,7 +28,7 @@
 
 # Oracle Certified Associate, Java SE 7 Programmer <a href="https://www.credly.com/badges/463a0e70-7b5f-4c70-8359-db97a7477627"><img src="https://images.credly.com/size/340x340/images/9956323d-90eb-4a7a-9fc6-4750ce433d3a/Oracle-Certification-badge_OC-Associate600X600.png" align="left" height="48" width="48" /></a>
  
- # Scrum Foundation Professional Certificate <a href="https://www.credly.com/badges/463a0e70-7b5f-4c70-8359-db97a7477627?source=linked_in_profile"><img src="https://images.credly.com/size/680x680/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" align="left" height="48" width="48" /></a>
+ # Scrum Foundation Professional Certificate <a href="https://www.credly.com/badges/5d8a9ad6-e1e7-4a8b-9dc5-6171dae67963"><img src="https://images.credly.com/size/340x340/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" align="left" height="48" width="48" /></a>
 
  # Cybersecurity Awareness - CAPC <a href="https://www.credly.com/badges/29bb380d-458e-4752-aee9-f567c7108c60"><img src="https://images.credly.com/size/340x340/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png" align="left" height="48" width="48" /></a>
  
