@@ -10,7 +10,7 @@
 
 :books: I’m currently learning PyTorch
 
-:outbox_tray: 2021 Goals: Improve my skills about Machine Learning.
+:outbox_tray: 2024 Goals: Improve my skills about Machine Learning.
 
 ## About me
 
@@ -82,7 +82,9 @@
 
 # Journal
 
-Tetila, E. C., Bressem, K. K., Astolfi, G., Sant’Ana, D. A., Pache, M. C. B., Wirti Junior, G., Barbedo, J. G. A., & Pistori, H. (2023). System for quantitative diagnosis of COVID-19 associated Pneumonia based on Superpixels with deep learning and chest CT. OBSERVATÓRIO DE LA ECONOMÍA LATINOAMERICANA, 21(9), 10883–10905. DOI:(https://doi.org/10.55905/oelv21n9-022)
+Martins, J. A. C.; Higuti, A. Y. H.;  Pellegrin, A. O.; Juliano, R. S.; De Araujo, A. M.; Pellegrin, L. A. ; Liesenberg, V.;  Ramos, A. P. M.;  Goncalves, W. N. ; Sant'Ana, D. A.;  Pistori,H.; Marcato Junior, J.. Assessment UAV-Based Deep Learning for Corn Crop Analysis in Midwest Brazil. Agriculture, XX(x), 2024, xxxxx–xxxxx. DOI:( xxxxxxxxxxxx)
+
+Tetila, E. C., Bressem, K. K., Astolfi, G., Sant’Ana, D. A., Pache, M. C. B., Wirti Junior, G., Barbedo, J. G. A., & Pistori, H.  System for quantitative diagnosis of COVID-19 associated Pneumonia based on Superpixels with deep learning and chest CT. OBSERVATÓRIO DE LA ECONOMÍA LATINOAMERICANA, 21(9), 2023 10883–10905. DOI:(https://doi.org/10.55905/oelv21n9-022)
 
 Astolfi, G.;  Sant'Ana, Diego André ; de Andrade Porto, J. V.; Prestes Cesar Rezende, F.; Castelão Tetila, E.;Takashi Matsubara, E.;PISTORI, H.  . An approach for applying natural language processing to image classification problems. Neurocomputing,  Volume 513, 2022, 372-382 , ISSN 0925-2312, DOI:(https://doi.org/10.1016/j.neucom.2022.09.131).
 
