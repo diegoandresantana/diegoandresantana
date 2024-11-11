@@ -82,7 +82,7 @@
 
 # Journal
 
-Martins, J. A. C.; Higuti, A. Y. H.;  Pellegrin, A. O.; Juliano, R. S.; De Araujo, A. M.; Pellegrin, L. A. ; Liesenberg, V.;  Ramos, A. P. M.;  Goncalves, W. N. ; Sant'Ana, D. A.;  Pistori,H.; Marcato Junior, J.. Assessment UAV-Based Deep Learning for Corn Crop Analysis in Midwest Brazil. Agriculture, XX(x), 2024, xxxxx–xxxxx. DOI:( xxxxxxxxxxxx)
+Martins, J. A. C.; Higuti, A. Y. H.;  Pellegrin, A. O.; Juliano, R. S.; De Araujo, A. M.; Pellegrin, L. A. ; Liesenberg, V.;  Ramos, A. P. M.;  Goncalves, W. N. ; Sant'Ana, D. A.;  Pistori,H.; Marcato Junior, J.. Assessment UAV-Based Deep Learning for Corn Crop Analysis in Midwest Brazil. Agriculture, 14(11), 2024, 2077-0472. DOI:(10.3390/agriculture14112029)
 
 Tetila, E. C., Bressem, K. K., Astolfi, G., Sant’Ana, D. A., Pache, M. C. B., Wirti Junior, G., Barbedo, J. G. A., & Pistori, H.  System for quantitative diagnosis of COVID-19 associated Pneumonia based on Superpixels with deep learning and chest CT. OBSERVATÓRIO DE LA ECONOMÍA LATINOAMERICANA, 21(9), 2023 10883–10905. DOI:(https://doi.org/10.55905/oelv21n9-022)
 
