@@ -74,9 +74,35 @@
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></code>
 
-## Stats
-[![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoandresantana)](https://github.com/diegoandresantana/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=diegoandresantana&layout=compact)](https://github.com/diegoandresantana/github-readme-stats)
+
+## 📚 Featured Publications
+
+### 🧠 Recent Research
+
+- **[Assessment UAV-Based Deep Learning for Corn Crop Analysis](https://doi.org/10.3390/agriculture14112029)**  
+  *Martins, J. A. C.; Higuti, A. Y. H.; Pellegrin, A. O.; Juliano, R. S.; De Araujo, A. M.; Pellegrin, L. A.; Liesenberg, V.; Ramos, A. P. M.; Goncalves, W. N.; Sant'Ana, D. A.; Pistori, H.; Marcato Junior, J.*  
+  *Agriculture, 14(11), 2024*.  
+  🧪 Use of UAVs and deep learning to analyze corn crops in Midwest Brazil.
+
+- **[Quantitative Diagnosis of COVID-19 from CT Scans](https://doi.org/10.55905/oelv21n9-022)**  
+  *Tetila, E. C.; Bressem, K. K.; Astolfi, G.; Sant’Ana, D. A.; Pache, M. C. B.; Wirti Junior, G.; Barbedo, J. G. A.; Pistori, H.*  
+  *Observatório de la Economía Latinoamericana, 21(9), 2023*.  
+  🧬 Deep learning applied to CT imaging for COVID-19 pneumonia assessment.
+
+- **[NLP Applied to Image Classification](https://doi.org/10.1016/j.neucom.2022.09.131)**  
+  *Astolfi, G.; Sant'Ana, D. A.; de Andrade Porto, J. V.; Rezende, F. P. C.; Tetila, E. C.; Matsubara, E. T.; Pistori, H.*  
+  *Neurocomputing, Volume 513, 2022, 372–382*.  
+  🧠 Innovative cross-domain approach using NLP models in image classification tasks.
+
+- **[Prediction of Fingerling Biomass with Deep Learning](https://doi.org/10.1016/j.ecoinf.2022.101785)**  
+  *Pache, M. C. B.; Sant'Ana, D. A.; Rozales, J. V. A.; Weber, V. A. M.; Oliveira Junior, A. S.; Garcia, V.; Pistori, H.; Naka, M. H.*  
+  *Ecological Informatics, Volume 71, 2022*.  
+  🐟 Applying computer vision and regression for aquaculture monitoring.
+
+- **[Computer Vision System for Superpixel Classification in Sheep](https://doi.org/10.1016/j.ecoinf.2021.101551)**  
+  *Sant’Ana, D. A.; Pache, M. C. B.; Martins, J.; Astolfi, G.; Soares, W. P.; Melo, S. L. N.; Heimbach, N. S.; Weber, V. A. M.; Mateus, R. G.; Pistori, H.*  
+  *Ecological Informatics, Volume 68, 2022*.  
+  🐑 Real-time segmentation and classification of sheep images using superpixels.
 
 ## Papers
 
@@ -136,3 +162,16 @@ Martins,J. ;  Junior,J. M.; Menezes,G. ; Pistori, H.; Sant'Ana,D.; Gonçalves,W.
 
 # PREPRINT
 Tetila,E.; Bressem,K.; Astolfi, G; Sant'Ana, D. A.; Carneiro Brito Pache, M; Pistori, H., System for Quantitative Diagnosis of COVID-19-Associated Pneumonia Based on Superpixels With Deep Learning and Chest CT, 17 December 2020, PREPRINT (Version 1) available at Research Square, (https://doi.org/10.21203/rs.3.rs-123158/v1)
+
+
+## Stats
+[![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoandresantana)](https://github.com/diegoandresantana/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=diegoandresantana&layout=compact)](https://github.com/diegoandresantana/github-readme-stats)
+
+## 🔍 GitHub Insights
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=diegoandresantana&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=diegoandresantana&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Diego's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=diegoandresantana&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
