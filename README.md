@@ -1,16 +1,12 @@
 # Welcome!
 
  
-## I'm Diego Sant'Ana!
- 
 
-:computer: I'm Professor/Web Developer !
+## I'm Diego Sant'Ana
 
-:house_with_garden: I’m from Brazil.
-
-:books: I’m currently learning PyTorch
-
-:outbox_tray: 2024 Goals: Improve my skills about Machine Learning.
+🎓 **Prof. Dr. Diego André Sant'Ana**  
+👨‍🏫 Professor EBTT at [IFMS - Campus Aquidauana](https://www.ifms.edu.br/campi/aquidauana)  
+💻 Web Developer | Researcher in Machine Learning  
 
 ## About me
 
