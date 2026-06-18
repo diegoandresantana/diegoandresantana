@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/diegoandresantana">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegoandresantana&theme=nord_dark" />
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegoandresantana&theme=nord_dark" />
   </a>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diegoandresantana&theme=nord_dark" />
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegoandresantana&theme=nord_dark&exclude={exclude}" />
