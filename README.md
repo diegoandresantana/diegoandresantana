@@ -167,7 +167,6 @@ Tetila,E.; Bressem,K.; Astolfi, G; Sant'Ana, D. A.; Carneiro Brito Pache, M; Pis
 ## 🔍 GitHub Insights
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=diegoandresantana&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=diegoandresantana&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Diego's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=diegoandresantana&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+ 
+[![Diego's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diegoandresantana0&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
