@@ -7,16 +7,23 @@
 🎓 **Prof. Dr. Diego André Sant'Ana**  
 👨‍🏫 Professor EBTT at [IFMS - Campus Aquidauana](https://www.ifms.edu.br/campi/aquidauana)  
 💻 Web Developer | Researcher in Machine Learning  
+📧 diego.santana@ifms.edu.br | diegoandresantana@gmail.com  
+
+<div align="center">
+  <a href="https://github.com/diegoandresantana">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegoandresantana&theme=github_dark" />
+  </a>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diegoandresantana&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/languages?username=diegoandresantana&theme=github_dark" />
+</div>
 
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/diegoandresantana)](https://github.com/diegoandresantana)
-
+[![Google Scholar Badge](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=msDYoY4AAAAJ&hl=pt-BR)](https://scholar.google.com/citations?user=msDYoY4AAAAJ&hl=pt-BR)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-andr%C3%A9-sant-ana-7b917b27/)](https://www.linkedin.com/in/diego-andr%C3%A9-sant-ana-7b917b27/)
-
 [![ResearchGate Badge](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Diego-Santana-4)](https://www.researchgate.net/profile/Diego-Santana-4)
-
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitee&link=https://www.instagram.com/diegoandresantana/)](https://www.instagram.com/diegoandresantana/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/diegoandresantana/)](https://www.instagram.com/diegoandresantana/)
 
 ## Certifications
  
@@ -122,7 +129,7 @@ Carneiro Brito Pache, M.; Sant'Ana, D. A.; Prestes Cesar Rezende, F.;  de Andrad
 
 da Silva Oliveira Junior, A.; Sant'Ana, D. A.; Carneiro Brito Pache, M.; Garcia, V.; Aparecida de Moraes Weber, V.; Astolfi, G; de Lima Weber, F.; Vilharva Menezes, G.; Kisten Menezes, G; França Albuquerque, P. L.; Soares Costa, C;  Quirino Arguelho de Queiroz, E.; Araújo Rozales,J. V.;Wolff Ferreira, M.; Hiroshi Naka, M; Pistori, H. Fingerlings mass estimation: a comparison between deep and shallow learning algorithms. Smart Agricultural Technology, Volume 1, 2021,100020, ISSN 2772-3755, DOI:(https://doi.org/10.1016/j.atech.2021.100020).
 
-Correa Martins, J. A.; Menezes, G.; Gonçalves, W.; Sant’Ana, D. A.; Prado Osco, L.; Liesenberg, V.; Li, J.; Ma, L.; Tarso Oliveira, P.; Astolfi, G.; Pistori, H.; Marcato Junior, J.. Machine learning and SLIC for Tree-Canopies segmentation in urban areas. Ecological Informatics, Volume ???, 2021,101465, ISSN 1574-9541, DOI:(https://doi.org/10.1016/j.ecoinf.2021.101465).
+Correa Martins, J. A.; Menezes, G.; Gonçalves, W.; Sant’Ana, D. A.; Prado Osco, L.; Liesenberg, V.; Li, J.; Ma, L.; Tarso Oliveira, P.; Astolfi, G.; Pistori, H.; Marcato Junior, J.. Machine learning and SLIC for Tree-Canopies segmentation in urban areas. Ecological Informatics, Volume 68, 2021,101465, ISSN 1574-9541, DOI:(https://doi.org/10.1016/j.ecoinf.2021.101465).
 
 Sant’Ana, D. A.; Carneiro Brito Pache, M.; Martins, J.; Pereira Soares,W.; Neves de Melo,S. L.;  Garcia,V.; Aparecida de Moares Weber,V. ;da Silva Heimbach,N.; Gonçalves Mateus,R; Pistori,H. Weighing live sheep using computer vision techniques and regression machine learning,
 Machine Learning with Applications, Volume 5, 2021, 100076, ISSN 2666-8270, DOI:(https://doi.org/10.1016/j.mlwa.2021.100076).
