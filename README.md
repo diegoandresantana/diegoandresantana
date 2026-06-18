@@ -7,7 +7,7 @@
 🎓 **Prof. Dr. Diego André Sant'Ana**  
 👨‍🏫 Professor EBTT at [IFMS - Campus Aquidauana](https://www.ifms.edu.br/campi/aquidauana)  
 💻 Web Developer | Researcher in Machine Learning  
-📧 diegoandresantana@gmail.com  
+📧 diego.santana@ifms.edu.br | diegoandresantana@gmail.com  
 
 <div align="center">
   <a href="https://github.com/diegoandresantana">
