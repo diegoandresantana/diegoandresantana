@@ -175,5 +175,5 @@ Tetila,E.; Bressem,K.; Astolfi, G; Sant'Ana, D. A.; Carneiro Brito Pache, M; Pis
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=diegoandresantana&theme=radical&hide_border=true)](https://git.io/streak-stats)
  
-[![Diego's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diegoandresantana0&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Diego's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diegoandresantana&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
