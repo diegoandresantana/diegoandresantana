@@ -13,7 +13,7 @@
   <a href="https://github.com/diegoandresantana">
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegoandresantana&theme=github_dark" />
   </a>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diegoandresantana&theme=github_dark" />
+  <img height="180em" src="[https://git](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diegoandresantana&theme=github_dark)" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/languages?username=diegoandresantana&theme=github_dark" />
 </div>
 
